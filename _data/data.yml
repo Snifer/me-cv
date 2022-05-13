@@ -101,7 +101,7 @@ publications:
       - title: "Certified Red Team Professional - CRTP"
         link: "https://www.credential.net/31e447ab-e9d2-4f10-b45d-21b53de341bf"
         authors: Pentester Academy
-         conference: Marzo 2021
+        conference: Marzo 2021
 
       - title: "Offensive Security Certified Professional - OSCP"
         link: "https://www.credential.net/dc07770a-b966-4b15-98e3-1700b845d81e"
@@ -119,7 +119,7 @@ publications:
         conference: Julio 2016
 
       - title: "Offensive Security Wireless Professional  - OSWP"
-        link: "https://www.credential.net/824cb539-2660-4b4f-8624-b11f4908afca#"
+        link: "https://www.credential.net/824cb539-2660-4b4f-8624-b11f4908afca"
         authors: Offensive Security
         conference: Agosto 2015
         
