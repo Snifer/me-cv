@@ -48,12 +48,10 @@ sidebar:
 career-profile:
     title: Perfil Profesional
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Experiencia y conocimiento para evaluar aplicaciones web y móviles, adquiridos trabajando con entidades financieras, empresas de desarrollo de software e instituciones públicas. Capacidad para la realización de pruebas de pentest de infraestructura interna tanto en servicios de Ethical Hacking como también  en ejercicios de Red Team, creación de herramienta y scripts de automatización para tareas de pentesting.
+      
+      Capacidades de trabajo en equipo, planificación de proyectos y asignación de tareas para el proceso de pentesting, redacción de reportes ejecutivos y comunicación con clientes. Experiencia trabajando remotamente. Alta capacidad en la resolución de problemas, aprendizaje y mejora contínua.
+
 education:
     - degree: MSc in Computer Science
       university: University of London
@@ -93,7 +91,7 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
+    - role: Consultor
       time: 2014 - 2015
       company: Google, London
       details: |
@@ -143,21 +141,18 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Certificaciones
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Certificaciones 
     papers:
-      - title: The Art of Computer Programming
+      - title: "eLearnSecurity Web application Penetration Testing - eWPT"
         link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Certified Red Team Professional - CRTP"
+        link: "https://www.credential.net/31e447ab-e9d2-4f10-b45d-21b53de341bf"
+        authors: Pentester Academy
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
