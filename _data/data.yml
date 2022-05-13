@@ -29,7 +29,6 @@ sidebar:
     pdf: http://
 
     languages:
-    title: Idiomas
       - idiom: Ingles
         level: Profesional
 
@@ -147,7 +146,6 @@ projects:
 publications:
     title: Certificaciones
     intro: |
-      Certificaciones 
     papers:
       - title: "eLearnSecurity Web application Penetration Testing - eWPT"
         link: "#"
