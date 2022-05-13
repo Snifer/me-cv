@@ -79,32 +79,25 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+    title: Perfil Profesional
     - role: Senior Security Consultant
       time: 2017 - Present
       company: Dreamlab Technologies Bolivia
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+      details: 
+        - Encargado de pruebas de pentesting mobile, web y evaluación interna para entidades financieras en Bolivia y América Latina.
+        - Realización de procesos de análisis forense de entornos windows, linux (Desktop - Server).
+        - Realización y ejecución de respuesta de incidentes con conocimiento y manejo de Carbon Black Response y protection, Cursos realizados: Carbon Black Response Administrator, Carbon Black Advance Response Administrator, Carbon Black Response Advance Analyst, Carbon Black Protection Rules. 
+        - Elaboración y revisión de documentación, encargado de la personalización de software Pwndoc para la generación de informes.
+
     - role: Consultor
       time: 2014 - 2015
       company: Google, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Encargado de pruebas de pentesting mobile, web y evaluación interna para entidades financieras en Bolivia y América Latina.
+        - Realización de procesos de análisis forense de entornos windows, linux (Desktop - Server).
+        - Realización y ejecución de respuesta de incidentes con conocimiento y manejo de Carbon Black Response y protection, Cursos realizados: Carbon Black Response Administrator, Carbon Black Advance Response Administrator, Carbon Black Response Advance Analyst, Carbon Black Protection Rules. 
+        - Elaboración y revisión de documentación, encargado de la personalización de software Pwndoc para la generación de informes.
+
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
