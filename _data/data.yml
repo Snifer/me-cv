@@ -9,14 +9,14 @@ sidebar:
     # Profile information
     name: Jose Moruno Cadima
     tagline: Senior Security Consultant
-    avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    # avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: moruno.jose@gmail.com
     phone: 
     citizenship:
     website: sniferl4bs.com #do not add http://
-    linkedin: Jose Moruno Cadima
+    linkedin: jose-moruno-cadima-52943a64
     xing: 
     github: snifer
     telegram: SniferL4bs # add your nickname without '@' sign
@@ -39,14 +39,12 @@ sidebar:
       - item: Podcasting
         link:
 
-      - item: Streaming
+      - item: YouTube
         link:
 
-      - item: Hardware Hacking
+      - item: Twitch
         link:
-        
-      - item: Hardware Hacking
-        link:
+
         
 career-profile:
     title: Perfil Profesional
@@ -56,84 +54,40 @@ career-profile:
       Capacidades de trabajo en equipo, planificación de proyectos y asignación de tareas para el proceso de pentesting, redacción de reportes ejecutivos y comunicación con clientes. Experiencia trabajando remotamente. Alta capacidad en la resolución de problemas, aprendizaje y mejora contínua.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Ingeniero de Sistemas
+      university: UNIVERSIDAD DE AQUINO DE BOLIVIA
+      time: 2007-2012
+
+    - degree: Bachiller en Humanidades
+      university: Colegio Pedro Poveda Castroverde
+      time: 2001 - 2006
+
 experiences:
     - role: Senior Security Consultant
       time: 2017 - Present
       company: Dreamlab Technologies Bolivia
-      details: 
+      details:  |
         - Encargado de pruebas de pentesting mobile, web y evaluación interna para entidades financieras en Bolivia y América Latina.
         - Realización de procesos de análisis forense de entornos windows, linux (Desktop - Server).
         - Realización y ejecución de respuesta de incidentes con conocimiento y manejo de Carbon Black Response y protection, Cursos realizados: Carbon Black Response Administrator, Carbon Black Advance Response Administrator, Carbon Black Response Advance Analyst, Carbon Black Protection Rules. 
         - Elaboración y revisión de documentación, encargado de la personalización de software Pwndoc para la generación de informes.
 
     - role: Consultor
-      time: 2014 - 2015
-      company: Google, London
+      time: Marzo 2013 - Mayo 2017
+      company: Yanapti Corp. - Bolivia
       details: |
-        - Encargado de pruebas de pentesting mobile, web y evaluación interna para entidades financieras en Bolivia y América Latina.
-        - Realización de procesos de análisis forense de entornos windows, linux (Desktop - Server).
-        - Realización y ejecución de respuesta de incidentes con conocimiento y manejo de Carbon Black Response y protection, Cursos realizados: Carbon Black Response Administrator, Carbon Black Advance Response Administrator, Carbon Black Response Advance Analyst, Carbon Black Protection Rules. 
-        - Elaboración y revisión de documentación, encargado de la personalización de software Pwndoc para la generación de informes.
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Jefe de Consultoría encargado de ejecución, seguimiento y entrega de proyectos finales a cliente. (2015 - 2017)
+        - Jefatura Regional Cochabamba: A cargo de los proyectos reuniones con clientes en la ciudad de Cochabamba.  (2015 - 2017)
+        - Asistente de Consultoría: Apoyo en tareas de informática forense y ethical hacking, elaboración de informes. (2013 - 2014)
+        
+    - role: Desarrollador
+      time: Marzo 2013 - Mayo 2017
+      company: Jalasoft - Bolivia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        - FullStack Developer / Staff Developer (Diciembre 2012 – Marzo 2013)
+        - Developer - Research Program. (Febrero 2012 - Noviembre 2012)
+        - Tecnologías utilizadas como desarrollador: - FrontEnd: Javascript (Backbone, Underscore, JQuery, JQueryMobile, SaSS, ExtJs ) BackEnd: Perl, Ruby,Python.  Tecnologías utilizadas para automatización y puesta en marcha: Vagrant, Veewee, Bash.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Certificaciones
@@ -141,39 +95,53 @@ publications:
     papers:
       - title: "eLearnSecurity Web application Penetration Testing - eWPT"
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: ElearnSecurity
+        conference: Abril, 2022
 
       - title: "Certified Red Team Professional - CRTP"
         link: "https://www.credential.net/31e447ab-e9d2-4f10-b45d-21b53de341bf"
         authors: Pentester Academy
+         conference: Marzo, 2021
 
-      - title: A syntax directed compiler for Algol 60
+      - title: "Offensive Security Certified Professional - OSCP"
+        link: "https://www.credential.net/dc07770a-b966-4b15-98e3-1700b845d81e"
+        authors: Offensive Security
+        conference: Mayo, 2019
+
+      - title: "eLearnSecurity Certified Professional Penetration Tester - eCPPT"
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: ElearnSecurity
+        conference: Marzo, 2018
+        
+      - title: "eLearnSecurity Certified Professional Penetration Tester - eJPT"
+        link: "#"
+        authors: ElearnSecurity
+        conference: Julio, 2016
 
-skills:
-    title: Skills &amp; Proficiency
+      - title: "Offensive Security Wireless Professional  - OSWP"
+        link: "https://www.credential.net/824cb539-2660-4b4f-8624-b11f4908afca#"
+        authors: Offensive Security
+        conference: Agosto, 2015
+        
 
-    toolset:
-      - name: Python & Django
-        level: 
+projects:
+    title: Proyectos
+    intro: >
+      Detallo algunos proyectos en los cuales estoy trabajando continuamente. 
+    assignments:
+      - title: Sitio Web Snifer@L4bs
+        link: "https://www.sniferl4bs.com"
+        tagline: "Blog de seguridad informatica con mas de 10 años que me encuentro compartiendo contenido de seguridad informática, realizando contenido tambien en  YouTube como Een Twitch, como con el Podcast Dame una Shell. "
 
-      - name: Javascript & jQuery
-        level: 
+      - title: Obsidian Pentesting Vault
+        link: "https://github.com/Snifer/Obsidian-pentesting-template"
+        tagline: "Template de Bóveda para la realizacion de proyectos Pentesting, registrando vulnerabilidades y registrar el contenido en un Vault de Obsidian."
 
-      - name: Angular
-        level: 
+      - title: Lazy Pentesting Active Directory aka  LazyPAD
+        link: "https://github.com/Snifer/LazyPentestingAD"
+        tagline: "Es un wraper escrito en Bash para herramientas de pentesting en Linux que automatiza el proceso de enumeración y detección de vulnerabilidades en un Active Directory."
 
-      - name: HTML5 & CSS
-        level: 
 
-      - name: Ruby on Rails
-        level: 
-
-      - name: Sketch & Photoshop
-        level: 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
