@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -29,22 +29,26 @@ sidebar:
     pdf: http://
 
     languages:
-      - idiom: English
-        level: Professional
+    title: Idiomas
+      - idiom: Ingles
+        level: Profesional
 
-      - idiom: Spanish
-        level: Native
+      - idiom: Castellano
+        level: Nativo
 
     interests:
-      - item: Climbing
+      - item: Podcasting
         link:
 
-      - item: Snowboarding
+      - item: Streaming
         link:
 
-      - item: Cooking
+      - item: Hardware Hacking
         link:
-
+        
+      - item: Hardware Hacking
+        link:
+        
 career-profile:
     title: Perfil Profesional
     summary: |
