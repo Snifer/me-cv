@@ -7,36 +7,33 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Jose Moruno Cadima
+    tagline: Senior Security Consultant
+    avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: moruno.jose@gmail.com
+    phone: 
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    website: sniferl4bs.com #do not add http://
+    linkedin: Jose Moruno Cadima
+    xing: 
+    github: snifer
+    telegram: SniferL4bs # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@sniferl4bs'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: http://
 
     languages:
       - idiom: English
-        level: Native
-
-      - idiom: French
         level: Professional
 
       - idiom: Spanish
-        level: Professional
+        level: Native
 
     interests:
       - item: Climbing
@@ -49,7 +46,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Perfil Profesional
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -81,9 +78,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Security Consultant
+      time: 2017 - Present
+      company: Dreamlab Technologies Bolivia
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -172,22 +169,22 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 98%
+        level: 
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 
 
       - name: Angular
-        level: 98%
+        level: 
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 
 
       - name: Ruby on Rails
-        level: 85%
+        level: 
 
       - name: Sketch & Photoshop
-        level: 60%
+        level: 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
