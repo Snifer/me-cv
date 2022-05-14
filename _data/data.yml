@@ -30,21 +30,23 @@ sidebar:
 
     languages:
       - idiom: Ingles
-        level: Profesional
+        level: Medio
 
       - idiom: Castellano
         level: Nativo
 
     interests:
-      - item: Podcasting
-        link:
+      - item: Podcast
+        link: https://open.spotify.com/show/5HbcZscVZ8hQAbaBblydpt
 
       - item: YouTube
-        link:
+        link: https://www.youtube.com/c/SniferL4bs
 
       - item: Twitch
-        link:
-
+        link: https://twitch.tv/sniferl4bs
+        
+      - item: Printing 3D
+        link: 
         
 career-profile:
     title: Perfil Profesional
